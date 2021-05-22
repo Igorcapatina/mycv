@@ -51,6 +51,10 @@ background-color: #EAF6F6;
     background-color: #EAF6F6;
 }
 
+.top-container {
+    background-color:#EAF6F6;
+    margin: 0;
+}
 /*********************************************  divs  *******************************************/
 
 /*********************************************  clouds  *******************************************/
@@ -65,6 +69,7 @@ background-color: #EAF6F6;
 .bottom-cloud {
     position: absolute;
 }
+
 
 
 /*********************************************  clouds  *******************************************/
@@ -202,5 +207,5 @@ p {
     text-align: left;
     line-height: 2;
     display: inline-block;
-    margin: auto 300px 100px 300px;
+    margin: auto  auto auto auto;
 }
